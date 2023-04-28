@@ -1,0 +1,146 @@
+[
+  {
+    "Name": "Angular",
+    "Description": "Angular é uma plataforma de aplicações web de código-fonte aberto e front-end baseado em TypeScript liderado pela Equipe Angular do Google e por uma comunidade de indivíduos e corporações. Angular é uma reescrita completa do AngularJS, feito pela mesma equipe que o construiu.",
+    "Price": 200,
+    "PictureUrl": "images/products/angula.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "HTML 5",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 150,
+    "PictureUrl": "images/products/html5.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "CSS",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/css.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "JavaScript",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 300,
+    "PictureUrl": "images/products/javascript.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "React",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 250,
+    "PictureUrl": "images/products/react.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Typescript",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 120,
+    "PictureUrl": "images/products/typescript.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Metodologia Agil",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 1000,
+    "PictureUrl": "images/products/agile.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "SQL Server",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 835.99,
+    "PictureUrl": "images/products/sqlserver.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Java",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 1500,
+    "PictureUrl": "images/products/java.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Android",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 1800,
+    "PictureUrl": "images/products/android.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Kotlin",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 1750,
+    "PictureUrl": "images/products/kotlin.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "C#",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 1600,
+    "PictureUrl": "images/products/c#.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 12
+  },
+  {
+    "Name": "Python",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 14,
+    "PictureUrl": "images/products/python.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "MySql",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 250,
+    "PictureUrl": "images/products/mysql.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "MongoDb",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 189.99,
+    "PictureUrl": "images/products/mongo.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "SASS",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/sass.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "Scrum",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 1589.99,
+    "PictureUrl": "images/products/scrum.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "React Native",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 180,
+    "PictureUrl": "images/products/react-native.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 18
+  }
+]

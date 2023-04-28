@@ -1,0 +1,88 @@
+[
+  {
+    "Id": 1,
+    "Name": "HTML 5"
+  },
+  {
+    "Id": 2,
+    "Name": "CSS"
+  },
+  {
+    "Id": 3,
+    "Name": "JavaScript"
+  },
+  {
+    "Id": 4,
+    "Name": "React"
+  },
+  {
+    "Id": 5,
+    "Name": "Typescript"
+  },
+  {
+    "Id": 6,
+    "Name": "Angular"
+
+  },
+  {
+    "Id": 7,
+    "Name": "Métodologia Agil"
+
+  },
+  {
+    "Id": 8,
+    "Name": "SQL"
+
+  },
+  {
+    "Id": 9,
+    "Name": "Java"
+
+  },
+  {
+    "Id": 10,
+    "Name": "Android"
+
+  },
+  {
+    "Id": 11,
+    "Name": "Kotlin"
+
+  },
+  {
+    "Id": 12,
+    "Name": "C#"
+
+  },
+  {
+    "Id": 13,
+    "Name": "Phyton"
+
+  },
+  {
+    "Id": 14,
+    "Name": "MySql"
+
+  },
+  {
+    "Id": 15,
+    "Name": "MongoDb"
+
+  },
+  {
+    "Id": 16,
+    "Name": "SASS"
+
+  },
+  {
+    "Id": 17,
+    "Name": "Scrum"
+
+  },
+  {
+    "Id": 18,
+    "Name": "React Native"
+
+  }
+
+]
